@@ -1,0 +1,6 @@
+{
+  "name": "PolymerRadana",
+  "short_name": "PolymerRadana",
+  "start_url": "/",
+  "display": "standalone"
+}
